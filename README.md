@@ -12,6 +12,7 @@ Este projeto realiza uma análise detalhada dos dados de e-commerce da Olist, ab
 - [Ferramentas e tecnologias](#ferramentas-e-tecnologias)
 - [Análises realizadas](#análises-realizadas)
 - [Visualizações no Power BI](#visualizações-no-power-bi)
+- [Execução do projeto](#execução-do-projeto)
 - [Contato](#contato)
 
 ## Introdução
@@ -78,6 +79,26 @@ As imagens dos dashboards abaixo estão localizadas na pasta `images/`, enquanto
 - **Satisfação do cliente**
 
   ![Satisfação do cliente](images/satisfacao_cliente.png)
+
+## Execução do projeto
+
+### Pré-requisitos
+
+- Python 3.x
+- Power BI
+
+### Passos
+
+1. Clone o repositório:
+    ```bash
+    git clone https://github.com/GustavoFLOli/ecommerce_data_analysis_olist.git
+    ```
+2. Instale as dependências:
+    ```bash
+    pip install -r requirements.txt
+    ```
+3. Execute os notebooks em `notebooks/` para tratamento de dados.
+4. Importe os dados tratados no Power BI para visualizar os dashboards.
 
 ## Contato
 
