@@ -22,3 +22,12 @@ Implementar um programa de auditoria e controle de qualidade focado nos vendedor
 - **Desempenho dos produtos**
 
   ![Desempenho dos produtos](images/desempenho_produtos.jpg)
+
+---
+## Acesso ao relatório interativo
+
+O arquivo `.pbix` completo, com todas as tabelas, medidas DAX e interações, está disponível para download e visualização no link abaixo.
+
+[➡️ **Acessar o projeto Power BI completo no Google Drive**](https://drive.google.com/file/d/1R4hW9zsVKh-vIELG7aB-BI42ijM68C8Y/view?usp=sharing)
+
+*(Nota: O arquivo tem aproximadamente 70MB, pois contém uma cópia completa dos dados tratados para permitir a análise offline.)*
